@@ -19,7 +19,7 @@
 			asumirá la versión 1.4 predeterminada. Debido a esto, la parte de anotaciones 
 			no funcionará adecuadamente. Como soluciones se aconseja la actualización 
 			de la versión de Spring o usar Java 7. -->
-		<fixed.spring.version>3.2.9.RELEASE</fixed.spring.version>
+		<fixed.spring.version>5.2.7.RELEASE</fixed.spring.version>
 		<hsqldb.version>2.3.1</hsqldb.version>
 		<spring.modules.version>0.8a</spring.modules.version>
 	</properties>
