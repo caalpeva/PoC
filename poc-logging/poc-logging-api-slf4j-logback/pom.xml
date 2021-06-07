@@ -71,7 +71,7 @@
 		<dependency>
 			<groupId>ch.qos.logback</groupId>
 			<artifactId>logback-classic</artifactId>
-			<version>1.0.13</version>
+			<version>1.2.0</version>
 		</dependency>
 
 		<!-- Enlace SLF4J para delegar el todo el registro de SLF4J al API Jakarta 
